@@ -148,3 +148,16 @@ textarea {
 .botao, select {
     cursor: pointer;
 }
+
+a {
+   color: #ffffff;
+   text-decoration: none;
+}
+
+a:visited {
+    color: #90cddf;
+}
+
+a:hover {
+    color: #3ab0e7;
+}
